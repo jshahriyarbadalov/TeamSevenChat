@@ -10,8 +10,28 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/netinfo": "^5.3.2",
+    "babel-preset-react-native": "2.1.0",
+    "mem": "^4.0.0",
     "react": "16.9.0",
-    "react-native": "0.61.5"
+    "react-native": "0.61.5",
+    "react-native-cache-store": "^1.0.2",
+    "react-native-gesture-handler": "^1.5.2",
+    "react-native-material-design": "^0.3.7",
+    "react-native-modal": "^11.5.3",
+    "react-native-modalbox": "^2.0.0",
+    "react-native-permissions": "^2.0.9",
+    "react-native-popup-dialog": "^0.18.3",
+    "react-native-push-notification": "^3.1.9",
+    "react-native-reanimated": "^1.4.0",
+    "react-native-reconnecting-websocket": "^1.0.2",
+    "react-native-unique-id": "^2.0.0",
+    "react-native-websocket": "^1.0.2",
+    "react-navigation": "^4.0.10",
+    "react-navigation-drawer": "^2.3.3",
+    "react-navigation-stack": "^1.10.3",
+    "socket.io-client": "^2.3.0",
+    "uniqid": "^5.2.0"
   },
   "devDependencies": {
     "@babel/core": "7.7.7",

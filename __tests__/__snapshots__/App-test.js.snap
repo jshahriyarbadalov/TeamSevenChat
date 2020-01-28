@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test my Ui Components snapshot Testing MyMessage component  1`] = `[Function]`;
+
+exports[`Test my Ui Components snapshot Testing MyMessage component  2`] = `[Function]`;
+
+exports[`Test my Ui Components snapshot testing ChatScreen component  1`] = `[Function]`;
+
+exports[`Test my Ui Components snapshot testing ColorScreen component  1`] = `[Function]`;
+
+exports[`Test my Ui Components snapshot testing LoginScreen component 1`] = `[Function]`;
+
+exports[`Test my Ui Components snapshot testing MyMessage component  1`] = `[Function]`;
+
+exports[`Test my Ui Components snapshot testing RegistrationScreen component 1`] = `[Function]`;
+
+exports[`Test my Ui Components snapshot testing UserListScreen component 1`] = `[Function]`;
+
+exports[`Test my Ui Components snapshot testing UserMessage component  1`] = `[Function]`;
+
+exports[`Test my Ui Components snapshot testing UserNameScreen component 1`] = `[Function]`;
+
+exports[`Test my Ui Components snapshot testing WelcomeScreen component 1`] = `[Function]`;

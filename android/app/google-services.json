@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "246105469934",
+    "firebase_url": "https://team7chat-944fb.firebaseio.com",
+    "project_id": "team7chat-944fb",
+    "storage_bucket": "team7chat-944fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246105469934:android:d333fbbe5bad748b94d4ff",
+        "android_client_info": {
+          "package_name": "com.teamsevenchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246105469934-tr6oj4gat593mfotkdnpl26m1tegda0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf1dEEFCBXpJ-rZJMwdokwHPJIRei1oz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246105469934-tr6oj4gat593mfotkdnpl26m1tegda0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
